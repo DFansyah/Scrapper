@@ -1,5 +1,5 @@
 {
-  "name": "scrapper",
+  "name": "@dfansyah/scrapper",
   "version": "1.0.0",
   "description": "A module to helper your script",
   "main": "index.js",
